@@ -15,6 +15,9 @@
 {{-- CONTENIDO --}}
 
 <div class="container">
+
+
+  <h3 class="page__heading">SE AGREGO ESTO A LA RAMA MANTENIMIENTO</h3>
     
     <a href="{{route('Empleados.create')}}" class="btn btn-primary" style="margin:20px 50px"><i class="fas faplus"></i> Nuevo Registro</a>
     
